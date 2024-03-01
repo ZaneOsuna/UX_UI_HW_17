@@ -1,0 +1,88 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: left;
+  padding: 20px;
+}
+
+.logo {
+  width: 50px; /* Adjust the size as needed */
+  height: auto;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 14px; /* Adjust the font size as needed */
+  color: #333;
+}
+
+#about-me {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-image {
+  width: 200px; /* Adjust the size as needed */
+  height: auto;
+  margin-right: 20px;
+}
+
+#projects {
+  padding: 20px;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+h2, h3 {
+  margin: 0;
+}
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: left;
+}
+
+footer nav {
+  margin-top: 0;
+}
+
+footer ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+footer li {
+  margin-right: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
